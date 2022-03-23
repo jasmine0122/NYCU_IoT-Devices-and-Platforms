@@ -1,2 +1,3 @@
-# NYCU_IoT-Devices-and-Platforms
-2021 NYCU 110-1 物聯網裝置與平台 IoT Devices and Platforms
+此discussion得分只有90，沒有正解請自行更改。
+
+助教回饋: 第一題需敘述差異哦
