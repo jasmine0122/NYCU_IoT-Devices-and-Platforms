@@ -1,2 +1,15 @@
-# NYCU_IoT-Devices-and-Platforms
-2021 NYCU 110-1 物聯網裝置與平台 IoT Devices and Platforms
+# NYCU_IoT-Devices-and-Platforms/ch04
+## Quiz1
+> Calibration
+
+Use “FunctionDeclaration” for Calibration and Smoothing.
+
+## Quiz2
+> Calibration
+
+Use photocell sensor to design a LED switch.
+
+## Quiz3
+> weighted moving average
+
+Use “weighted moving average” to smooth sensor data.
