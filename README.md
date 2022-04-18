@@ -21,5 +21,9 @@ Only discussion, no quiz.
 3. Use “weighted moving average” to smooth sensor data.
 
 ## Ch05
+1. Design a short song and play.
 
+2. Compose a melody by yourself.
+
+3. Design a Parking Assist System.
 
