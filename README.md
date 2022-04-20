@@ -27,3 +27,11 @@ Only discussion, no quiz.
 
 3. Design a Parking Assist System.
 
+## Ch06
+1. Parking assist system plus.
+
+2. Show: Dew point temperature/Heat Index/Apparent temperature.
+
+3. Guess what?
+
+
