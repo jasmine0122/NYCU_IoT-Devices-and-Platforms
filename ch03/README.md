@@ -1,4 +1,5 @@
 # NYCU_IoT-Devices-and-Platforms/ch03
+此discussion得分100。
 ## Quiz1
 > Blink
 
