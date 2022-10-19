@@ -1,7 +1,9 @@
 # NYCU_IoT-Devices-and-Platforms Quiz
 2021 NYCU 110-1 物聯網裝置與平台 IoT Devices and Platforms
 
-慢慢更新上去，因為我很懶
+⭐⭐⭐如果對你有幫助的話，請幫我點下Star⭐⭐⭐
+
+慢慢更新上去，因為我很懶 (111學期沒開這堂QQ
 
 ## Ch02
 Only discussion, no quiz.
