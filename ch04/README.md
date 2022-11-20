@@ -1,4 +1,6 @@
 # NYCU_IoT-Devices-and-Platforms/ch04
+此discussion得分100。
+
 ## Quiz1
 > Calibration
 
