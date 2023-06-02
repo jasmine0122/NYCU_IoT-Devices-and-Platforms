@@ -3,7 +3,8 @@
 
 ⭐⭐⭐如果對你有幫助的話，請幫我點下Star⭐⭐⭐
 
-慢慢更新上去，因為我很懶 (111學期沒開這堂QQ
+~~慢慢更新上去，因為我很懶QQ~~
+因SSD損毀，Quiz6之後的只剩discussion，之後會更新final project
 
 ## Ch02
 Only discussion, no quiz.
